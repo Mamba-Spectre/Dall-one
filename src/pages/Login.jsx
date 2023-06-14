@@ -1,20 +1,4 @@
-// import React from 'react'
-// import loginImg from '../assets/login.jpg'
-// const Login = () => {
-//   return (
-//     <div className='relative w-full h-screen bg-zinc-900/90'>
-//       <img className='relative w-full h-full object-cover mix-blend-overlay' src={loginImg} alt="/" />
 
-//       <div>
-//         <form action="">
-
-//         </form>
-//       </div>
-//     </div>
-//   )
-// }
-
-// export default Login
 import React from 'react'
 import {FcGoogle} from 'react-icons/fc'
 import {AiFillFacebook} from 'react-icons/ai'
